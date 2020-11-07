@@ -1,7 +1,7 @@
 ### Hola Coders,I am Anushri! 👋
 
 - 🔭 I’m currently working on Discord Bot.
-- 🌱 I’m currently learning ML and DSA.
+- 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on Python related projects
 - 🤔 I’m looking for help with Discord.py documentation.
 - 💬 Ask me about anything. I might end up learning something from you!
