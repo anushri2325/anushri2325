@@ -9,4 +9,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write and dance.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anushri2325)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anushri2325&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
