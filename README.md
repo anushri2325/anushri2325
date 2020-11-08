@@ -1,4 +1,4 @@
-### Hola Coders,I am Anushri! 👋
+### Hola Coders,I am [Anushri](https://www.linkedin.com/in/anushri-jain23/)! 👋
 
 - 🔭 I’m currently working on Discord Bot.
 - 🌱 I’m currently learning DSA.
@@ -8,5 +8,7 @@
 - 📫 How to reach me: anushri2325@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write and dance.
+<br>
+<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anushri2325&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
