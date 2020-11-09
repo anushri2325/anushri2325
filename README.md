@@ -1,4 +1,4 @@
-### Hola Coders,I am [Anushri](https://www.linkedin.com/in/anushri-jain23/)! <img src="https://github.com/anushri2325/anushri2325/blob/main/wave.gif" width="30px">
+## Hola Coders,I am [Anushri](https://www.linkedin.com/in/anushri-jain23/)! <img src="https://github.com/anushri2325/anushri2325/blob/main/wave.gif" width="30px">
 
 <p align="center">  
   
@@ -16,4 +16,11 @@
 - ⚡ Fun fact: I write , dance and am a melophile too!
 <br>
 
+### Blog posts:
+- <a href="https://medium.com/@collabrain23/what-is-hacktoberfest-2020-and-the-notion-of-open-source-e0bb7b191b45">What is Hacktoberfest 2020 and the notion of Open Source?</a>
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anushri2325&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
