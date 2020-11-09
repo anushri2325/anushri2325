@@ -13,8 +13,7 @@
 - 💬 Ask me about anything. I might end up learning something from you!
 - 📫 How to reach me: anushri2325@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I write and dance.
-<br>
+- ⚡ Fun fact: I write , dance and am a melophile too!
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anushri2325&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
