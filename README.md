@@ -1,4 +1,4 @@
-### Hola Coders,I am [Anushri](https://www.linkedin.com/in/anushri-jain23/)! 👋
+### Hola Coders,I am [Anushri](https://www.linkedin.com/in/anushri-jain23/)! <img src="https://github.com/anushri2325/anushri2325/blob/main/wave.gif" width="30px">
 
 <p align="center">  
   
