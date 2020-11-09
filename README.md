@@ -14,13 +14,17 @@
 - 📫 How to reach me: anushri2325@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write , dance and am a melophile too!
-<br>
+<hr>
 
 ### Blog posts:
 - <a href="https://medium.com/@collabrain23/what-is-hacktoberfest-2020-and-the-notion-of-open-source-e0bb7b191b45">What is Hacktoberfest 2020 and the notion of Open Source?</a>
 
+#### A quote a day, doesn't let the motivaion fade away xD
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+<hr>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anushri2325&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
