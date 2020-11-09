@@ -6,6 +6,8 @@
 
 </p>
 
+<img align='right' src="https://github.com/anushri2325/anushri2325/blob/main/undraw_working_remotely_jh40.svg" width="430">
+
 - 🔭 I’m currently working on Discord Bot.
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on Python related projects
