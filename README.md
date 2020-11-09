@@ -1,5 +1,11 @@
 ### Hola Coders,I am [Anushri](https://www.linkedin.com/in/anushri-jain23/)! 👋
 
+<p align="center">  
+  
+![](https://komarev.com/ghpvc/?username=anushri2325&color=40E0D0&style=plastic)
+
+</p>
+
 - 🔭 I’m currently working on Discord Bot.
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on Python related projects
