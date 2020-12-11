@@ -22,9 +22,7 @@
 - <a href="https://medium.com/@collabrain23/what-is-hacktoberfest-2020-and-the-notion-of-open-source-e0bb7b191b45">What is Hacktoberfest 2020 and the notion of Open Source?</a>
 <hr>
 
-#### A quote a day, doesn't let the motivaion fade away xD
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-<hr>
+
 
 #### Just a check on my goal to contribute more in 2020 :)
 
