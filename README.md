@@ -8,8 +8,8 @@
 
 <img align='right' src="https://github.com/anushri2325/anushri2325/blob/main/undraw_working_remotely_jh40.svg" width="430">
 
-- 🔭 I’m currently working on Discord Bot.
-- 🌱 I’m currently learning DSA.
+- 🔭 I’m currently working on a ML Project.
+- 🌱 I’m currently practicing DSA .
 - 👯 I’m looking to collaborate on Python related projects
 - 🤔 I’m looking for help with Discord.py documentation.
 - 💬 Ask me about anything. I might end up learning something from you!
@@ -24,7 +24,7 @@
 
 
 
-#### Just a check on my goal to contribute more in 2020 :)
+#### Just a check on my goal to contribute more in 2021 :)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anushri2325&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
