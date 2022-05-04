@@ -8,7 +8,7 @@
 
 <img align='right' src="https://github.com/anushri2325/anushri2325/blob/main/undraw_working_remotely_jh40.svg" width="430">
 
-- 🔭 I’m currently doing the #revisewitharsh challenge.
+- 🔭 I’m currently practising Data structures and Algorithms 
 - 👯 I’m looking to collaborate on ML related projects
 - 💬 Ask me about anything. I might end up learning something from you!
 - 📫 How to reach me: anushri2325@gmail.com
